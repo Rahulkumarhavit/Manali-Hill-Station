@@ -1,4 +1,4 @@
-### Next.js Application with TypeScript and Tailwind CSS
+# Next.js Application with TypeScript and Tailwind CSS
 ## Welcome to this Next.js application template utilizing TypeScript and Tailwind CSS! This repository provides a starting point for building modern web applications with Next.js while leveraging the power of TypeScript for type safety and Tailwind CSS for rapid UI development.
 
 # Getting Started
