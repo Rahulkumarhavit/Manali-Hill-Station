@@ -17,7 +17,7 @@ Ensure you have Node.js and npm installed on your machine.
 1. Clone the repository to your local machine:
 
 
-   git clone https://github.com/your-username/nextjs-typescript-tailwind.git
+   git clone https://github.com/rahulkumarhavit/Manali-Hill-Station.git
 
 
 2. Navigate into the project directory:
