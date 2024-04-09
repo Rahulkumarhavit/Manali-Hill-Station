@@ -1,42 +1,32 @@
-Next.js Application with TypeScript and Tailwind CSS
-Welcome to this Next.js application template utilizing TypeScript and Tailwind CSS! This repository provides a starting point for building modern web applications with Next.js while leveraging the power of TypeScript for type safety and Tailwind CSS for rapid UI development.
+### Next.js Application with TypeScript and Tailwind CSS
+## Welcome to this Next.js application template utilizing TypeScript and Tailwind CSS! This repository provides a starting point for building modern web applications with Next.js while leveraging the power of TypeScript for type safety and Tailwind CSS for rapid UI development.
 
-Getting Started
+# Getting Started
 Follow these instructions to get the project up and running on your local machine.
 
-Prerequisites
+# Prerequisites
 Ensure you have Node.js and npm installed on your machine.
 
 Node.js - Download & Install Node.js
-Installation
+# Installation
 Clone the repository to your local machine:
 
-bash
-Copy code
+
 git clone https://github.com/rahulkumarhavit/Manali-hill-Station.git
-Navigate into the project directory:
 
-
-cd nextjs-typescript-tailwind
-Install dependencies:
-
-
-npm install
-Development
-To start the development server, run the following command:
 
 
 npm run dev
 This will start the Next.js development server, and your application will be accessible at http://localhost:3000 by default.
 
-Build
+# Build
 To build the production-ready assets, run:
-
 npm run build
-Deployment
+
+# Deployment
 This project can be easily deployed to platforms like Vercel, Netlify, or any other hosting service that supports Node.js applications.
 
-Folder Structure
+# Folder Structure
 The project structure is as follows:
 
 /app: Contains Next.js pages.
